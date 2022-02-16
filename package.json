@@ -1,0 +1,20 @@
+{
+  "name": "@Landmaster135/test-library",
+  "version": "0.0.1",
+  "description": "GitHub Package sample",
+  "main": "dist/main.js",
+  "types": "dist/main.d.ts",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/{GitHubのユーザーネーム}/{リポジトリ名}.git"
+  },
+  "author": "{所有者の情報}",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
