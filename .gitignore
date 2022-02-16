@@ -105,4 +105,7 @@ dist
 
 
 # Add
-README.md
+.DS_Store
+.dockerignore
+Dockerfile
+LICENSE
