@@ -1,5 +1,5 @@
 {
-  "name": "@Landmaster135/test-library",
+  "name": "@landmaster135/test-library",
   "version": "0.0.1",
   "description": "GitHub Package sample",
   "main": "dist/main.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Landmaster135/test-library.git"
+    "url": "git+https://github.com/landmaster135/test-library.git"
   },
   "author": "kinkinbeer135ml",
   "license": "MIT",
